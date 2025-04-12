@@ -9,7 +9,7 @@ package net.oijon.onahsa.info;
  */
 public class Info {
 
-	private static String versionNum = "0.4.4";
+	private static String versionNum = "0.4.5";
 	private static String fullVersion = "Onahsa - v" + versionNum;
 	
 	/**
