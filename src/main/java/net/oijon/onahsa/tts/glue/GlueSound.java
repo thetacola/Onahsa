@@ -140,6 +140,7 @@ public class GlueSound {
 							allStreams[0].getFormat(),
 							allStreams[0].getFrameLength() + allStreams[1].getFrameLength());
 				allStreams[0] = temp;
+				temp.close();
 			}
 				
 			AudioSystem.write(allStreams[0], AudioFileFormat.Type.WAVE, new File(System.getProperty("user.home") + 
