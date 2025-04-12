@@ -235,7 +235,6 @@ public class TRM {
 	 * Do not use.
 	 * 
 	 * Unfinished, worse version of create17cmWave.
-	 * @return Currently blank.
 	 */
 	public static void createSchwaTubeTest() {
 		
