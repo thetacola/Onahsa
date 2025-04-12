@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.oijon</groupId>
 	<artifactId>onahsa</artifactId>
-	<version>0.4.4</version>
+	<version>0.4.5</version>
 	<packaging>jar</packaging>
 	<name>onahsa</name>
 	<description>A text-to-speech program meant to handle the International Phonetic Alphabet (IPA)</description>
-	<url>http://github.com/alexdcramer/Onahsa</url>
+	<url>http://github.com/thetacola/Onahsa</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -260,7 +260,7 @@
 	</licenses>
 	<developers>
 		<developer>
-			<id>N3ther</id>
+			<id>thetacola</id>
 			<name>A. D. Cramer</name>
 			<email>alex@consus.fun</email>
 			<url>https://oijon.net/</url>
@@ -271,8 +271,8 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git://github.com/alexdcramer/Onahsa.git</connection>
-		<developerConnection>scm:git:ssh://github.com:alexdcramer/Onahsa.git</developerConnection>
-		<url>http://github.com/alexdcramer/Onahsa/tree/master</url>
+		<connection>scm:git:git://github.com/thetacola/Onahsa.git</connection>
+		<developerConnection>scm:git:ssh://github.com:thetacola/Onahsa.git</developerConnection>
+		<url>http://github.com/thetacola/Onahsa/tree/master</url>
 	</scm>
 </project>
