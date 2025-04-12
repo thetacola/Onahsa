@@ -74,7 +74,6 @@ public class TRM {
 	
 	/**
 	 * Creates a tube (See net.oijon.algonquin.tts.trm.Tube) that is 17cm long. Will be removed in the future.
-	 * @return Any debug information generated.
 	 */
 	public static void createTestTube() {
 		Tube testTube = new Tube(17);
@@ -106,7 +105,6 @@ public class TRM {
 	
 	/**
 	 * Creates a test wave from a raw Voicebox instance (see net.oijon.algonqion.tts.trm.Voicebox). Will be renamed in the future.
-	 * @return Any debug information generated.
 	 * @throws IOException Thrown when it can't create the output file for whatever reason.
 	 */
 	public static void createTestWave() throws IOException {
@@ -168,7 +166,6 @@ public class TRM {
 	/**
 	 * Puts a Voicebox through a 17cm tube. Currently not working as expected.
 	 * Will be removed in the future.
-	 * @return Any debug information generated.
 	 * @throws IOException Thrown when it can't create the output file for whatever reason.
 	 */
 	public static void createTest17cmWave() throws IOException {
